@@ -17,7 +17,7 @@ django-ses==0.8.1
 django-subdomains==2.1.0
 django-timezone-field==2.0
 Django>=1.5,<1.6
-dnspython==1.15.0
+dnspython==2.6.0rc1
 Fabric==1.12.0
 gunicorn==19.6.0
 hiredis==0.2.0
