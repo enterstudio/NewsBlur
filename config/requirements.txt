@@ -56,3 +56,4 @@ stripe==1.43.0
 tweepy==3.5.0
 South==1.0.2
 xlsxwriter==0.9.6
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
